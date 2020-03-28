@@ -1,0 +1,11 @@
+"id","Season","Episode","Airline","No.","time","Place","Country","Manufacturer","Plane","Main Reason","Type of Accident","Othre Reasons","New&old Flag","New Plane Flag","Weather Flag","Time&Delay Flag","Military-Civil Flag","Other"
+"1","20","10","Aires","8250","16/8/2010","San Andres","Colombia","Boeing","737-700","Blackhole illusion","Pilot","Pilot change plane","1","1","1","1","0",
+"2","20","9","Kenya","507","4/5/2007","Douala","Cameroon","Boeing","737-800","Not start auto pilot","Pilot","Lack in communication","1","1","1","1","0",
+"3","20","8","LAM","470","29/11/2013","Bwabwata National Park","Namibia","	Embraer","E190","Pilot Suicide","Pilot","None","1","1","0","0","0",
+"4","20","7","Trigana","267","16/8/2015","Oksibil","Indonesia","	ATR","42-300","Heavy Cloud","Pilot","Turn off the GPWS","0","0","1","0","0","Fifth Flight"
+"5","20","6","West Air Sweden","294","8/1/2016","Tromso","Norway","	Bombardier","CRJ200","PFD","Pilot","Lack in communication","0","0","0","0","0","Spatial disorientation"
+"7","20","5","Cougar","91","12/3/2009","St. John's, Newfoundland","Canada","	Sikorsky","S-92A","Titanium stud","Mechnism","None","0","0","0","0","1","Helicopter"
+"8","20","4","Sol","5428","18/5/2011"," Los Menucos","Argentina","Saab","340","Stall","Pilot","Lack in ice flight","1","0","1","0","0",
+"9","20","3","Pakistan","268","28/9/1992","Kathmandu","Nepal","	Airbus","A300B4","Approach plates","Pilot","Cloudy","1","0","0","0","1",
+"10","20","2","Northwest","299&1482","3/12/1990","Detroit","USA","Douglas&Boeing","DC 9 & B 727-200","DC9 stop at runway","Pilot","Lack in communication&Foggy","1","0","1","0","0",
+"11","20","1","UNI","873","24/8/1998","Hualien","Taiwan","McDonnell","MD-90","Carry Gasoline & Battery","Security Check","Security Check","1","1","0","0","0",

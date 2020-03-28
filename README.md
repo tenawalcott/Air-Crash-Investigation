@@ -5,7 +5,7 @@ A database of Air Crash investigation(Mayday) from National Geographic Channel
 ## To-do
 
 - [x] Season 20
-- [ ] Season 19
+- [x] Season 19
 - [ ] Season 18
 - [ ] Season 17
 - [ ] Season 16
