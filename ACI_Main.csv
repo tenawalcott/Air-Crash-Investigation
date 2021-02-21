@@ -18,7 +18,7 @@
 19,19,2,The Galloping Ghost,"",2010-09-16 00:00:00,Reno,USA,Mustang,P-51D,Locknuts Lossen,Mechnism,High Speed,0,0,0,0,0,Reno Air Race
 20,19,1,Cathay Pacific,780,2010-04-13 00:00:00,Hong Kong,Hong Kong,Airbus,A330-300,Oil Polution,Ground,None,1,0,0,0,1,
 21,18,10,Continental,1713,1987-11-15 00:00:00,Denver,USA,Douglas,DC-9,Ice again in waiting,Pilot,Wrong ATC communication,1,0,1,1,0,
-22,18,9,Dynasty,140,1994-04-26 00:00:00,Nagoya,Japan,Airbus,A300B4,Go around Mode,Pilot,None,1,1,0,0,0,华航四年大限
+22,18,9,Dynasty,140,1994-04-26 00:00:00,Nagoya,Japan,Airbus,A300B4,Go around Mode,Pilot,None,1,1,0,0,0,""
 23,18,8,Alitalia,404,1990-11-14 00:00:00,Weiach,Switzerland,Douglas,DC-9,NAV 1 Short,Mechnism,Old Altimeter&Lack in communication,1,0,0,0,1,Hold the glide
 24,18,7,Qantas,72,2008-10-07 00:00:00,Learmonth,Australia,Airbus,A330-300,Wrong Angle,Mechanism,None,1,1,0,0,1,@737Max
 25,18,6,Spaceship2,,2014-10-31 00:00:00,Mojave Desert,USA,Scaled Composites,Spaceship 2,Wrong using feather,Pilot,Mistake in training,0,1,0,0,0,Space Travel
@@ -28,7 +28,7 @@
 29,18,2,TransAsia,222,2014-07-23 00:00:00,Penghu,Taiwan,ATR,72,Wrong Altitude,Pilot,Weather&Fatigue,1,0,1,0,0,
 30,18,1,Emery,17,2000-02-16 00:00:00,Reno,USA,Douglas,DC-8,Elevator Detachment,Ground,None,1,0,0,0,0,
 31,19,10,United Express,6291,1994-01-07 00:00:00,Gahanna,USA,British Aerospace,Jetstream 41,Wrong Speed,Pilot,Lack in trainning,1,1,0,0,0,Slam Dunk
-32,17,10,Thai,311,1992-07-31 00:00:00,Kathmandu,Nepal,Airbus,A310,Wrong Heading,Pilot,Lack in Communication&No mark on compass,0,1,1,0,0,一个调查员死了
+32,17,10,Thai,311,1992-07-31 00:00:00,Kathmandu,Nepal,Airbus,A310,Wrong Heading,Pilot,Lack in Communication&No mark on compass,0,1,1,0,0,""
 33,17,9,LAPA,3124,1999-08-31 00:00:00,Buenos Aires,Argentina,Boeing,737-200,Wrong Flaps,Pilot,Ignore warning&Rapid development of Aviation,0,1,0,0,0,Smocking
 34,17,8,Metrojet,9268,2015-10-31 00:00:00,Sharm EI Sheikj,Egypt,Airbus,A321,Explosion(Terrorist),Ground,Security Check,0,0,0,0,1,
 35,17,7,TransAsia,235,2015-02-04 00:00:00,Taipei,Taiwan,ATR,72,Close Wrong Engine,Pilot,Broken Circuit Board & Change Blindness,0,0,0,0,1,
@@ -88,7 +88,7 @@
 81,13,1,British European Airways,548,1972-06-18 00:00:00,London,England,Hawker Siddeley,Trident,Flaps,Pilot,Heart Disease & Argument,1,0,1,0,1,
 82,12,13,Air France,447,2009-07-01 00:00:00,Atlantic,Atlantic,Airbus,A330-200,Stall,Pilot,Pitot Tube & Lack in communication,1,1,1,0,0,
 83,7,1,Dynasty,611,2002-05-25 00:00:00,Taiwan,Taiwan,Boeing,747-200,Mental Fatigue,Ground,Repair not follow SRM & Write follow,0,0,0,0,0,22 Years
-84,11,2,West Caribbean,708,2005-08-16 00:00:00,Machiques,Venezuela,McDonnell,MD-80,Maintain Altitude Mode,Pilot,Financial Problem & Second Job,1,0,1,1,0,United State & Venezuela | 剪辑牛逼
+84,11,2,West Caribbean,708,2005-08-16 00:00:00,Machiques,Venezuela,McDonnell,MD-80,Maintain Altitude Mode,Pilot,Financial Problem & Second Job,1,0,1,1,0,United State & Venezuela
 85,4,10,Helios,522,2005-08-14 00:00:00,Athens,Greece,Boeing,737-300,P-5 pressurization Panel: MAN,Ground,None,0,0,0,0,0,Recorder flew away
 86,10,5,US Airways,1549,2009-01-15 00:00:00,New York,USA,Airbus,A320,Bird Strike,Bird,None,0,0,0,1,0,Sully
 87,11,12,Scandinavian,686,2001-10-08 00:00:00,Milan,Italy,McDonnell,MD-87,Collision(Wrong Taxiway),ATC & Pilot,Fog,0,0,1,0,0,No one Discover
@@ -114,7 +114,7 @@
 107,12,4,Silk Air,185,1997-12-19 00:00:00,Jakarta,Indonesia,Boeing,737-300,Suicide,Pilot,None,1,1,0,0,1,
 108,12,3,Singapore Airline,6,2000-10-31 00:00:00,Taipei,Taiwan,Boeing,747-400,Wrong Runway,Pilot,Rainy & Dark,1,1,1,0,0,
 109,12,12,Santa Barbara,518,2008-02-21 00:00:00,Merida,Venezuela,ATR,43,Nav System Need time to initiate,Pilot,Cloudy & Rush on Pre-Flight Check,0,0,1,1,0,Fly in the dark & Drink Coffee in the terminal
-110,12,11,Ethiopian,409,2010-01-25 00:00:00,Beirut,Lebanon,Boeing,737-800,Wrong Turning,Pilot,Subtle Incapacitation & Fatigue,1,0,1,0,0,42:28: 片头
+110,12,11,Ethiopian,409,2010-01-25 00:00:00,Beirut,Lebanon,Boeing,737-800,Wrong Turning,Pilot,Subtle Incapacitation & Fatigue,1,0,1,0,0,42:28
 111,12,10,Polish Air Force,101,2010-04-10 00:00:00,Smolensk,Russia,Tupolev,Tu-154,Wrong Altitude,Pilot,Fog & Ignore Warning,0,0,1,0,1,
 112,12,8,United Airline,173,1978-12-28 00:00:00,Portland,USA,Douglas,DC-8,Lack in Fuel,Pilot,Forcus on the Gear Problem,1,0,0,1,0,
 113,12,9,Yak-Service,9633,2011-09-07 00:00:00,Yaroslavl,Russia,Yakovlev,Yak-42,Pilot Apply Brake while Take off,Pilot,Nerve Condition & Switch two types of plane,0,0,0,0,0,Lokomotiv Yaroslavl ice hockey team
@@ -123,3 +123,4 @@
 116,12,5,TANS Peru,204,2005-08-23 00:00:00,Pucallpa,Peru,Boeing,737-200,Downdraft & Hail on Windows,Weather,Military Culture & Seat Belt Fault: No One Monitor Height & Forget to FUll Power,1,0,1,0,1,Local People Take Away the Evidence & Both Focus on Outside
 117,12,2,ValluJet,592,1995-05-11 00:00:00,Miami,USA,Douglas,DC-9,Fire(Oxygen Generator no Safety Cap),Cargo,People think Expired meant Empty,0,0,0,1,1,
 118,15,4,UPS,6,2010-09-03 00:00:00,Dubai,UAE,Boeing,747-400F,Fire(lithium batteries),Cargo,Smoke in Cockpit,0,0,0,0,0,
+119,12,1,Reeve Aleutian,8,1983-07-08 00:00:00,Anchorage,USA,Lockheed,L-188,Propeller Loss(Unknown Reason),Mechanism,None,0,0,0,0,0,
