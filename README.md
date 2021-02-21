@@ -41,8 +41,6 @@ A database of Air Crash investigation(Mayday) from National Geographic Channel
 
 The main.sql is the whole database in sql file
 
-Every season will have a seperated excel file
-
 ## Watch More
 
 If you want to watch more about ACI, goto <a href="https://space.bilibili.com/358422?from=search&seid=1708553944210543558">ACICFG</a> for Chinese version and <a href="https://www.nationalgeographic.com.au/tv/air-crash-investigation/episodes.aspx">National Geographic</a> for English version
