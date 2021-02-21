@@ -6,14 +6,14 @@ A database of Air Crash investigation(Mayday) from National Geographic Channel
 
 - [x] Season 20
 - [x] Season 19
-- [ ] Season 18
-- [ ] Season 17
-- [ ] Season 16
-- [ ] Season 15
-- [ ] Season 14
-- [ ] Season 13
-- [ ] Season 12
-- [ ] Season 11
+- [x] Season 18
+- [x] Season 17
+- [x] Season 16
+- [x] Season 15
+- [x] Season 14
+- [x] Season 13
+- [x] Season 12
+- [x] Season 11
 - [ ] Season 10
 - [ ] Season 9
 - [ ] Season 8
@@ -40,8 +40,6 @@ A database of Air Crash investigation(Mayday) from National Geographic Channel
 ## This Project
 
 The main.sql is the whole database in sql file
-
-Every season will have a seperated excel file
 
 ## Watch More
 
