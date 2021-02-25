@@ -14,7 +14,7 @@ id,Season,Episode,Airline,No.,time,Place,Country,Manufacturer,Plane,Main Reason,
 14,19,7,Continental,1404,2008-12-20 00:00:00,Denver ,USA,Boeing,737-500,Strong Wind,Weather,Stop using Rudder,1,0,1,0,0,
 15,19,6,Tarom,371,1995-03-31 00:00:00,Balotesti,Romania,Airbus,A310,Pilot Incapacity,Pilot&Mechnism,ATS Error,0,1,1,0,0,!!!!
 16,19,5,Fine Air,101,1997-08-07 00:00:00,Miami ,USA,McDonnell Douglas,DC-8,Cargo Loading,Ground,None,0,0,0,1,1,
-17,19,4,American International,808,1993-08-18 00:00:00,Guantanamo Bay,Cuba,McDonnell Douglas,DC-8,Wrong turning,Pilot,Fatigue&New Approaching Route ,0,0,0,1,0,Design for Crash: Cabin and Cockpit spread
+17,19,4,American International,808,1993-08-18 00:00:00,Guantanamo Bay,Cuba,McDonnell Douglas,DC-8,Wrong turning,Pilot,Fatigue & New Approaching Route ,0,0,0,1,0,Design for Crash: Cabin and Cockpit spread
 18,19,3,KLM Cityhopper,434,1994-04-04 00:00:00,Amsterdam,Netherlands,Saab,340,Wrong Engine Setting,Pilot,Wrong Warning&Lack in Communication,0,0,1,0,0,
 19,19,2,The Galloping Ghost,"",2010-09-16 00:00:00,Reno,USA,Mustang,P-51D,Locknuts Lossen,Mechanism,High Speed,0,0,0,0,0,Reno Air Race
 20,19,1,Cathay Pacific,780,2010-04-13 00:00:00,Hong Kong,Hong Kong,Airbus,A330-300,Oil Polution,Ground,None,1,0,0,0,1,
@@ -23,10 +23,10 @@ id,Season,Episode,Airline,No.,time,Place,Country,Manufacturer,Plane,Main Reason,
 23,18,8,Alitalia,404,1990-11-14 00:00:00,Weiach,Switzerland,McDonnell Douglas,DC-9,NAV 1 Short,Mechanism,Old Altimeter&Lack in communication,1,0,0,0,1,Hold the glide
 24,18,7,Qantas,72,2008-10-07 00:00:00,Learmonth,Australia,Airbus,A330-300,Wrong Angle,Mechanism,None,1,1,0,0,1,@737Max
 25,18,6,Spaceship2,,2014-10-31 00:00:00,Mojave Desert,USA,Scaled Composites,Spaceship 2,Wrong using feather,Pilot,Mistake in training,0,1,0,0,0,Space Travel
-26,18,5,Superjet 100,,2012-05-09 00:00:00,Java,Indonesia,Sukhol,Superjet 100,Wrong altitude,Pilot,Fog& Ignore terrain& Wrong Map,0,1,1,0,0,Trial
+26,18,5,Superjet 100,,2012-05-09 00:00:00,Java,Indonesia,Sukhol,Superjet 100,Wrong Altitude,Pilot,Fog & Ignore terrain & Wrong Map,0,1,1,0,0,Trial
 27,18,4,Malaysia,17,2014-07-17 00:00:00,Hrabove,Ukraine,Boeing,777-200,Missile,Military,None,1,0,1,0,0,
 28,18,3,Delta,1141,1988-08-31 00:00:00,Dallas,USA,Boeing,727-200,Flaps,Pilot,Hurry in checklist,1,0,0,1,0,We have it on record in case we crash
-29,18,2,TransAsia,222,2014-07-23 00:00:00,Penghu,Taiwan,ATR,72,Wrong Altitude,Pilot,Weather&Fatigue,1,0,1,0,0,
+29,18,2,TransAsia,222,2014-07-23 00:00:00,Penghu,Taiwan,ATR,72,Wrong Altitude,Pilot,Weather & Fatigue,1,0,1,0,0,
 30,18,1,Emery,17,2000-02-16 00:00:00,Reno,USA,McDonnell Douglas,DC-8,Elevator Detachment,Ground,None,1,0,0,0,0,
 31,19,10,United Express,6291,1994-01-07 00:00:00,Gahanna,USA,British Aerospace,Jetstream 41,Wrong Speed,Pilot,Lack in trainning,1,1,0,0,0,Slam Dunk
 32,17,10,Thai,311,1992-07-31 00:00:00,Kathmandu,Nepal,Airbus,A310,Wrong Heading,Pilot,Lack in Communication&No mark on compass,0,1,1,0,0,""
@@ -83,7 +83,7 @@ id,Season,Episode,Airline,No.,time,Place,Country,Manufacturer,Plane,Main Reason,
 77,13,5,American Airline,587,2001-11-12 00:00:00,New York,USA,Airbus,A300-600,Wrong Rudder Operation,Pilot,"Wind Turbulence & Use high level skills
 ",1,0,0,1,0,
 78,13,4,Florida,90,1982-01-13 00:00:00,Washington,USA,Boeing,737-200,EPR Sensor Wrong Data,Weather,Ice & Anti Ice off,0,0,1,1,0,
-79,13,3,CrossAir,498,2000-01-10 00:00:00,Zurich,Switerland,Saab,340,Different Artificial Horizon,Pilot,Valium & Pressure & spatial disorientation,0,0,0,0,0,
+79,13,3,Cross Air,498,2000-01-10 00:00:00,Zurich,Switerland,Saab,340,Different PFD,Pilot,Valium & Pressure & spatial disorientation,0,0,0,0,0,
 80,13,2,Hughes Airwest,706,1971-06-06 00:00:00,California,USA,McDonnell Douglas,DC-9,Collision with F4,ATC,None,0,0,0,0,1,
 81,13,1,British European Airways,548,1972-06-18 00:00:00,London,England,Hawker Siddeley,Trident,Flaps,Pilot,Heart Disease & Argument,1,0,1,0,1,
 82,12,13,Air France,447,2009-07-01 00:00:00,Atlantic,Atlantic,Airbus,A330-200,Stall,Pilot,Pitot Tube & Lack in communication,1,1,1,0,0,
@@ -125,5 +125,7 @@ id,Season,Episode,Airline,No.,time,Place,Country,Manufacturer,Plane,Main Reason,
 118,15,4,UPS,6,2010-09-03 00:00:00,Dubai,UAE,Boeing,747-400F,Fire(lithium batteries),Cargo,Smoke in Cockpit,0,0,0,0,0,
 119,12,1,Reeve Aleutian,8,1983-07-08 00:00:00,Anchorage,USA,Lockheed,L-188,Propeller Loss(Unknown Reason),Mechanism,None,0,0,0,0,0,
 120,10,6,Turkish Airline,1951,2009-02-25 00:00:00,Amsterdam,Netherlands,Boeing,737-800,Radio Altimeter Fail,Mechanism,Retard Mode & Slump Approach,1,1,1,0,0,Boeing VS Airbus
-121,10,5,British Airway,38,2008-01-17 00:00:00,London,UK,Boeing,777-200,Ice on FOHE,Mechanism,Pipes higher than the hot surface,0,1,0,0,0,
+121,10,2,British Airway,38,2008-01-17 00:00:00,London,UK,Boeing,777-200,Ice on FOHE,Mechanism,Pipes higher than the hot surface,0,1,0,0,0,
 122,10,3,Scandinavia Airline,751,1991-12-27 00:00:00,Gottrora,Sweden,McDonnell Douglas,DC-9,Ice Cause Surging,Weather,Automatic Thrust Restoration,0,0,0,1,1,
+123,10,4,Continental Connection,3407,2009-02-12 00:00:00,New York,USA,Bombardier,Dash8,Wrong Stall Operation,Pilot,Fatigue & Low Salary to go to the hotel,1,0,1,1,0,Revolution for Regional Airlines
+124,10,1,Cross Air,3597,2001-11-24 00:00:00,Zurich,Switzerland,British Aerospace,BAE 146,Wrong Altitude,Pilot,Map without Hill & Change Runway because of Political Reason & Not Enough Employees,1,0,1,1,0,Oil Gage installed upside down
