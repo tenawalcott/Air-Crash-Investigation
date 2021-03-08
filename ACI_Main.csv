@@ -1,7 +1,7 @@
 id,Season,Episode,Airline,No.,time,Place,Country,Manufacturer,Plane,Main Reason,Type of Accident,Other Reasons,New&old Flag,New Plane Flag,Weather Flag,Time&Delay Flag,Military-Civil Flag,Other
 1,20,10,Aires,8250,2010-08-16 00:00:00,San Andres,Colombia,Boeing,737-700,Wrong Turning: Blackhole illusion,Pilot,Pilot change plane,1,1,1,1,0,""
 2,20,9,Kenya,507,2007-05-04 00:00:00,Douala,Cameroon,Boeing,737-800,Not start auto pilot,Pilot,Lack in communication,1,1,1,1,0,
-3,20,8,LAM,470,2013-11-29 00:00:00,Bwabwata National Park,Namibia,Embraer,190,Pilot Suicide,Pilot,None,1,1,0,0,0,
+3,20,8,LAM,470,2013-11-29 00:00:00,Bwabwata National Park,Namibia,Embraer,190,Pilot Suicide,Pilot,Depression,1,1,0,0,0,
 4,20,7,Trigana,267,2015-08-16 00:00:00,Oksibil,Indonesia,ATR,42-300,Deviation: Visual Flight & Experience,Pilot,Wrong using circuit breaker & Heavy Cloud & Fog,0,0,1,0,0,""
 5,20,6,West Air Sweden,294,2016-01-08 00:00:00,Tromso,Norway,Bombardier,CRJ200,PFD Fail,Pilot,Lack in communication & Spatial Disorientation,0,0,0,0,0,""
 7,20,5,Cougar,91,2009-03-12 00:00:00,"St. John's, Newfoundland",Canada,Sikorsky,S-92A,Engine Fail: Titanium stud,Mechanism,None,0,0,0,0,0,Helicopter
@@ -12,7 +12,7 @@ id,Season,Episode,Airline,No.,time,Place,Country,Manufacturer,Plane,Main Reason,
 12,19,9,LaMia,2933,2016-11-28 00:00:00,Medellín ,Colombia,British Aerospace,BAE 146,Run out of Fuel,Pilot,Lack in management,1,0,0,0,0,Sao Paulo
 13,19,8,Aeroflot,821,2008-09-14 00:00:00,Perm,Russia,Boeing,737-500,Wrong Turning,Pilot,Alcohol,0,0,0,0,0,Alcohol!!!!
 14,19,7,Continental,1404,2008-12-20 00:00:00,Denver ,USA,Boeing,737-500,Strong Wind,Weather,Stop using Rudder,1,0,1,0,0,
-15,19,6,Tarom,371,1995-03-31 00:00:00,Balotesti,Romania,Airbus,A310,Pilot Incapacity,Pilot&Mechnism,ATS Error,0,1,1,0,0,!!!!
+15,19,6,Tarom,371,1995-03-31 00:00:00,Balotesti,Romania,Airbus,A310,Pilot Incapacity: Illness,Pilot&Mechnism,ATS Error,0,1,1,0,0,!!!!
 16,19,5,Fine Air,101,1997-08-07 00:00:00,Miami ,USA,McDonnell Douglas,DC-8,Cargo Loading,Ground,None,0,0,0,1,1,
 17,19,4,American International,808,1993-08-18 00:00:00,Guantanamo Bay,Cuba,McDonnell Douglas,DC-8,Wrong Turning,Pilot,Fatigue & New Approaching Route ,0,0,0,1,0,Design for Crash: Cabin and Cockpit spread
 18,19,3,KLM Cityhopper,434,1994-04-04 00:00:00,Amsterdam,Netherlands,Saab,340,Wrong Engine Setting,Pilot,Wrong Warning&Lack in Communication,0,0,1,0,0,
@@ -43,7 +43,7 @@ id,Season,Episode,Airline,No.,time,Place,Country,Manufacturer,Plane,Main Reason,
 42,16,10,National Airline,102,2013-04-29 00:00:00,Bagram,Afghanistan,Boeing,747-400F,Cargo Move,Ground,Lack in training,0,0,0,1,1,
 43,16,9,AirAsia,8501,2014-12-28 00:00:00,Java,Indonesia,Airbus,A320-200,FAC Warning,Pilot,Wrong using circuit breaker & Spatial Disorientation,1,0,1,0,0,
 44,16,8,Garuda Indonesia,421,2002-01-16 00:00:00,Solo River,Indonesia,Boeing,737-300,Heavy Rain & Giant Hail,Weather,Radar Shadowing & Battery,0,0,1,0,0,
-45,16,7,Germanwings,9525,2015-03-24 00:00:00,Alps,France,Airbus,A320-200,Pilot Suicide,Pilot,Privacy protection,1,0,0,0,0,
+45,16,7,Germanwings,9525,2015-03-24 00:00:00,Alps,France,Airbus,A320-200,Pilot Suicide,Pilot,Depression & Privacy protection,1,0,0,0,0,
 46,16,6,Trans-Colorado,2286,1988-01-19 00:00:00,Colorado,USA,Fairchild,SA227,Wrong Approach Altitude,Pilot,Delay,1,0,1,1,0,Drug Use
 47,16,5,Proteus,706,1998-07-30 00:00:00,Quiberon Bay,France,Beechcraft,1900D,Mid-Air Collision with Cessna,Pilot,Requirement from passengers & Turn off transponder,1,0,0,0,0,
 48,16,4,China Airline,120,2007-08-20 00:00:00,Okinawa,Japan,Boeing,737-800,Washer missed: Leaking Fuel,Mechanism,None,1,0,0,0,0,
@@ -109,7 +109,7 @@ id,Season,Episode,Airline,No.,time,Place,Country,Manufacturer,Plane,Main Reason,
 104,11,3,Arrow Air,1285,1985-12-12 00:00:00,Newfoundland,Canada,McDonnell Douglas,DC-8,Ice on Wings & Overweight,Weather & Pilot,Weight more than average,0,0,1,0,1,Bomb Theory & US Army
 105,11,2,West Caribbean,708,2005-08-16 00:00:00,Machiques,Venezuela,McDonnell Douglas,MD-82,Stall: Maintain Altitude Mode,Pilot,updraft & Lack of Communication,1,0,1,1,0,No Salary: Second Job
 106,11,1,TAM,3054,2007-07-17 00:00:00,Sao Paulo,Brazil,Airbus,A320-200,Wrong Thrust Setting,Pilot,One Reverser & Old Procedure & pressure,0,0,1,0,0,Sao Paulo Congonhas 35L
-107,12,4,Silk Air,185,1997-12-19 00:00:00,Jakarta,Indonesia,Boeing,737-300,Pilot Suicide,Pilot,None,1,1,0,0,1,
+107,12,4,Silk Air,185,1997-12-19 00:00:00,Jakarta,Indonesia,Boeing,737-300,Pilot Suicide,Pilot,1997 Asian financial crisis,1,1,0,0,1,
 108,12,3,Singapore Airline,6,2000-10-31 00:00:00,Taipei,Taiwan,Boeing,747-400,Wrong Runway,Pilot,Rainy & Dark,1,1,1,0,0,
 109,12,12,Santa Barbara,518,2008-02-21 00:00:00,Merida,Venezuela,ATR,43,Deviation: Nav System Need time to initiate,Pilot,Cloudy & Rush on Pre-Flight Check,0,0,1,1,0,Fly in the dark & Drink Coffee in the terminal
 110,12,11,Ethiopian,409,2010-01-25 00:00:00,Beirut,Lebanon,Boeing,737-800,Wrong Turning,Pilot,Subtle Incapacitation & Fatigue,1,0,1,0,0,42:28
@@ -123,7 +123,7 @@ id,Season,Episode,Airline,No.,time,Place,Country,Manufacturer,Plane,Main Reason,
 118,15,4,UPS,6,2010-09-03 00:00:00,Dubai,UAE,Boeing,747-400F,Fire(lithium batteries),Cargo,Smoke in Cockpit,0,0,0,0,0,
 119,12,1,Reeve Aleutian,8,1983-07-08 00:00:00,Anchorage,USA,Lockheed,L-188,Propeller Loss(Unknown Reason),Mechanism,None,0,0,0,0,0,
 120,10,6,Turkish Airline,1951,2009-02-25 00:00:00,Amsterdam,Netherlands,Boeing,737-800,Radio Altimeter Fail,Mechanism,Retard Mode & Slump Approach,1,1,1,0,0,Boeing VS Airbus
-121,10,2,British Airway,38,2008-01-17 00:00:00,London,UK,Boeing,777-200,Ice on FOHE,Mechanism,Pipes higher than the hot surface,0,1,0,0,0,
+121,10,2,British Airway,38,2008-01-17 00:00:00,London,UK,Boeing,777-200,Ice on FOHE,Mechanism,Cold Pipes higher than the hot surface,0,1,0,0,0,
 122,10,3,Scandinavia Airline,751,1991-12-27 00:00:00,Gottrora,Sweden,McDonnell Douglas,DC-9,Ice Cause Surging,Weather,Automatic Thrust Restoration,0,0,0,1,1,
 123,10,4,Continental Connection,3407,2009-02-12 00:00:00,New York,USA,Bombardier,Dash8,Wrong Stall Operation,Pilot,Fatigue & Low Salary to go to the hotel,1,0,1,1,0,Revolution for Regional Airlines
 124,10,1,Cross Air,3597,2001-11-24 00:00:00,Zurich,Switzerland,British Aerospace,BAE 146,Wrong Approach Altitude,Pilot,Map without Hill & Change Runway because of Political Reason & Not Enough Employees,1,0,1,1,0,Oil Gage installed upside down
@@ -143,7 +143,7 @@ id,Season,Episode,Airline,No.,time,Place,Country,Manufacturer,Plane,Main Reason,
 138,2,5,American Airline,295,1995-12-20 00:00:00,Cali,Colombia,Boeing,757-200,Deviation: Change FP while descending,Pilot,"Two waypoints start with ""R"" & Forget to retract Speedbreak",1,1,1,1,0,
 139,2,6,Avianca Airline,52,1990-01-25 00:00:00,New York,USA,Boeing,707,Run out of Fuel: Waiting in JFK,Pilot & ATC,"Smokey Weather & Wind Shear & Not Use ""Emergency"" & Handling: Missing Infomation",1,0,1,1,0,
 140,7,2,Pam Am,103,1998-12-21 00:00:00,Lockerbie,Scotland,Boeing,747-100,Explosion(Bomb),Terrorist,None,0,0,0,0,0,Libya
-141,7,4,Saudi Arabian & Kazakhstan,763 & 1907,1996-12-12 00:00:00,Haryana,China,Boeing & Ilyushin,747-100 & Il-76,Mid-Air Collision,Pilot,Language & Comunication,0,0,1,0,0,
+141,7,4,Saudi Arabian & Kazakhstan,763 & 1907,1996-12-12 00:00:00,Haryana,India,Boeing & Ilyushin,747-100 & Il-76,Mid-Air Collision,Pilot,Language & Comunication,0,0,1,0,0,
 142,7,3,Partnair,394,1989-09-08 00:00:00,North Sea,Denmark,Convair,CV-580,Counterfeit Bolt on Tail,Mechanism,Usa APU to fix Main Power Generator False & Broken Bolt on APU,0,0,0,0,0,
 143,7,5,USAF,,1975-04-04 00:00:00,Saigon,South Vietnam,Lockheed,C-5,False Cannibalization Process: Lock Failed on Cargo Door,Ground,None,0,0,0,1,0,Babylift
 144,7,6,Tuninter,1153,2005-08-06 00:00:00,Mediterranean Sea,Mediterranean Sea,ATR,72,Change to a Fuel Quantity Indicator from ATR 42,Ground,Not Feather Propeller to Reduce Drag,1,0,0,0,0,
@@ -154,7 +154,7 @@ id,Season,Episode,Airline,No.,time,Place,Country,Manufacturer,Plane,Main Reason,
 149,5,4,South African,295,1987-11-28 00:00:00,Indian Ocean,Indian Ocean,Boeing,747-200 Combi,Fire For Unknown Reason,Cargo,Checklist for Circulation Fans & Open Door & Unlisted Cargo,0,1,0,0,0,Open the Door in Mid-Air
 150,5,5,Air Midwest,5481,2003-01-08 00:00:00,Charlotte,USA,Beechcraft,1900D,Skip Steps for Changing Cable of Elevator,Ground,Overweight because of Average,0,0,0,0,0,
 151,5,6,Southern Airway,242,1977-04-04 00:00:00,New Hope,USA,McDonnell Douglas,DC-9,Engine Surge,Weather & Pilot,Radio not working for the cloud ahead & Acceleration & Hail block Valve & Airport not on Radar,0,0,1,0,1,
-152,5,8,Birgenair,301,1996-02-06 00:00:00,Puerto Plata,Dominican Republic,Boeing,757-200,Stall: Speed data for AutoPilot,Pilot,PITOT Tube Block & Reset the Circuit Breaker & Lack in Communication,1,1,1,1,0,
+152,5,8,Birgenair,301,1996-02-06 00:00:00,Puerto Plata,Dominican Republic,Boeing,757-200,Wrong Speed data,Ground,PITOT Tube Block & Reset the Circuit Breaker & Lack in Communication,1,1,1,1,0,
 153,5,9,Eastern Airline,401,1972-12-29 00:00:00,Florida,USA,Lockheed,L-1011,AutoPilot Off because of touch Yoke,Pilot,Nose Gear Light & Tumour in Captain's Brain: Vision & Rely on AutoPilot,0,1,0,0,0,Gas Gangrene & The start of CRM & Ghost
 154,5,10,Gol Linhas Aéreas,1907,2006-09-29 00:00:00,Mato Grosso,Brazil,Boeing,737-800,Mid-Air Collision with Embraer: ATC Forget to Give Instruction to Embraer,ATC,Plan Altitude VS Real Altitude & Transponder Fail: T-Cas Fail ,0,1,0,0,0,
 155,9,3,Air France,296,1998-06-24 00:00:00,Mulhouse,France,Airbus,A320-100,Wrong Altitude,Pilot,Unfamiliar with Airport & Low Speed & Engine did not response in Low Altitude,0,1,0,0,0,4 seconds cut off from tape
@@ -165,3 +165,19 @@ id,Season,Episode,Airline,No.,time,Place,Country,Manufacturer,Plane,Main Reason,
 160,9,7,Air Ontario,1363,1989-03-10 00:00:00,Ontario,Canada,Fokker,F28,Ice on Wings,Pilot,Focus on Time & Cannot De-ICE with Engine On & No APU,0,0,1,1,0,
 161,9,7,US Airways,405,1992-03-22 00:00:00,New York,USA,Fokker,F28,Ice on Wings,Pilot,Wait on Taxi Way: Ice Again,0,0,1,1,0,
 162,9,8,Chalk's Ocean Airways,101,2005-12-19 00:00:00,Miami,USA,Grumman,G-73,Mental Fatigue: Crack Under Sealing,Mechanism,Corrosion,1,0,0,1,0,
+163,1,1,American Airline,1420,1999-06-01 00:00:00,Little Rock,USA,McDonnell Douglas,MD-82,Spoiler,Pilot,Rain & Fatigue,0,0,1,1,0,
+164,1,4,Air Transat,236,2001-08-24 00:00:00,Azores,Portugal,Airbus,A330-200,Fuel Leak,Mechanism,Considered as fake Warning,0,1,0,0,0,
+165,1,2,United Airline,811,1989-02-24 00:00:00,Honolulu,USA,Boeing,747-100,Cargo Door: S2 Switch not working & Short Circuit,Mechanism,Strength not Enough,0,0,1,0,1,We can't get oxygen
+166,1,3,Aeroperu,603,1996-10-02 00:00:00,Lima,Peru,Boeing,757-200,Wrong Speed and Altitude Data,Ground,PITOT Tube Block: Clean the plane and forget to remove tape,0,1,0,0,0,
+167,1,5,Alaska,261,2000-01-31 00:00:00,Pacific,USA,McDonnell Douglas,MD-83,No Lube on jackscrew of the horizontal Stabilizer,Ground,Record work done but not & Reporter lost job & No Fail Safe,0,0,0,0,0,
+168,1,6,Swissair,111,1998-09-02 00:00:00,Atlantic,Canada,McDonnell Douglas,MD-11,Fire cause by electrical arc,Mechanism,Personalized Inflight Entertainment & Smoke,0,0,0,0,0,
+169,3,13,Ethiopian,961,1996-11-23 00:00:00,Indian Ocean,Comoro Islands,Boeing,767-200,Hijacking,Passenger,None,0,0,0,0,0,
+170,3,4,FedEX,705,1994-04-07 00:00:00,Memphis,USA,McDonnell Douglas,DC-10F,Hijacking,Passenger,Divorce & Maybe Fire,0,0,0,0,1,Jump Seat & Standford: Only Engineer
+171,3,1,Aloha,243,1988-04-28 00:00:00,Kahului,USA,Boeing,737-200,Mental Fatigue,Ground,None,0,0,0,0,0,
+172,3,2,DHL,,2003-11-22 00:00:00,Baghdad,Iraq,Airbus,A300B4F,Missile,Terrorist,No Hydraulic System,0,0,0,0,0,
+173,3,3,Japan Airline,123,1985-08-12 00:00:00,Gunma,Japan,Boeing,747SR,One Row Rivet for the Rear Pressure bulkhead instead of two,Ground,Pilot Incapacity,1,0,0,0,0,
+174,3,5,Philippine,434,1994-12-11 00:00:00,Okinawa,Japan,Boeing,747-200,Explosion(Bomb),Passenger,Short leg + Long leg & Metal in Shoes,0,0,0,0,0,Pakistan
+175,3,6,Iran,655,1988-07-03 00:00:00,Qeshm Island,Iran,Airbus,A300B2,Missile,Military,Mode 2-1100: F14 in Airport & Delay & Air Speed and Ground Speed,0,0,0,1,0,Iran VS Iraq
+176,3,8,Egypt,990,1999-10-31 00:00:00,Atlantic Ocean,USA,Boeing,767-300,Pilot Suicide,Pilot,Only FO at 59 years old & Sexual Harassment & Last Flight,0,0,0,0,1,I Rely on God
+177,3,10,Aeroflot,593,1994-03-23 00:00:00,Mezhdurechensk,Russia,Airbus,A310-300,AutoPilot Partial Off: Hold 30 seconds,Pilot,Captain's Kids & Going Abroad & No AutoPilot Disconnect Warning,0,1,0,0,0,Out of Stall automatically
+178,3,7,Bristow,56C,1995-01-19 00:00:00,North Sea,North Sea,Eurocopter,AS332,Lightning on Tail Rotor,Weather,30B Watt & New Material: Carbon Fiber,0,0,1,0,0,Helicopter
