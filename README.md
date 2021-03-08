@@ -16,14 +16,14 @@ A database of Air Crash investigation(Mayday) from National Geographic Channel
 - [x] Season 11
 - [x] Season 10
 - [x] Season 9
-- [ ] Season 8
+- [x] Season 8
 - [x] Season 7
-- [ ] Season 6
+- [x] Season 6
 - [x] Season 5
 - [x] Season 4
-- [ ] Season 3
+- [x] Season 3
 - [x] Season 2
-- [ ] Season 1
+- [x] Season 1
 
 ## Title
 
